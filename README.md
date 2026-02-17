@@ -1,0 +1,1 @@
+ANimation with python. I told Python to focus on laying things out clearly, bringing boats in, keeping the system level, turning the wheel over, and letting boats move out, while stripping visuals down, cutting noise out, keeping motion readable, speeding understanding up, and making the code easy to build on and tweak later. The video is on youtube 
